@@ -1,0 +1,84 @@
+    #card {
+        width: 180px;
+    }
+    
+    #features {
+        width: 70%;
+    }
+    
+    #fico {
+        width: 70px;
+    }
+    
+    p {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: inherit;
+    }
+    
+    .desc {
+        width: 30%;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .fimg {
+        width: 10%;
+    }
+    
+    td {
+        padding: 5px;
+    }
+    
+    #up01 {
+        background-image: radial-gradient(white, white, #73c7ff);
+    }
+    
+    #up01 {
+        background-image: url("imgs/bg.png");
+    }
+    
+    #down1 {
+        background: #2980b9;
+        border-radius: 50% 50% 0% 0% / 8% 8% 0% 0%
+    }
+    
+    #qWord {
+        width: 15%;
+        border-radius: 5px;
+        color: white;
+        text-align: center;
+        font-weight: bold;
+        font-size: 18px;
+        background-color: rgb(72, 198, 230);
+    }
+    
+    #qdes {
+        font-size: 18px;
+        color: rgb(20, 137, 181);
+    }
+    
+    #testmonials {
+        background-color: rgb(25, 133, 159);
+        color: white;
+        font-style: italic;
+        font-size: 17px;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    
+    #contact {
+        background-color: rgb(3, 81, 110);
+    }
+    
+    body {
+        background-image: url("imgs/bg.png");
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    #tcourse {
+        color: white;
+        font-size: 40px;
+        font-weight: bold;
+        border-radius: 46% 54% 18% 25% / 17% 21% 19% 16%;
+        background-color: rgb(74, 197, 229);
+        width: 150px
+    }

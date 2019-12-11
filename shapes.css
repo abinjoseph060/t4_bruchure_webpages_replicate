@@ -1,0 +1,6 @@
+#shape {
+    background: pink;
+    width: 50rem;
+    height: 30rem;
+    border-radius: 50% 50% 0% 0% / 15% 15% 0% 0%
+}
